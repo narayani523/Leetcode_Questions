@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/narayani523/Leetcode_Questions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/narayani523/Leetcode_Questions/tree/master/0367-valid-perfect-square) |
+| [2235-add-two-integers](https://github.com/narayani523/Leetcode_Questions/tree/master/2235-add-two-integers) |
 ## Simulation
 |  |
 | ------- |
