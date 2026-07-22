@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/narayani523/Leetcode_Questions/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/narayani523/Leetcode_Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/narayani523/Leetcode_Questions/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/narayani523/Leetcode_Questions/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/narayani523/Leetcode_Questions/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/narayani523/Leetcode_Questions/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/narayani523/Leetcode_Questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/narayani523/Leetcode_Questions/tree/master/0875-koko-eating-bananas) |
 ## Prefix Sum
 |  |
 | ------- |
