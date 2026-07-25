@@ -41,10 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/narayani523/Leetcode_Questions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/narayani523/Leetcode_Questions/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/narayani523/Leetcode_Questions/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/narayani523/Leetcode_Questions/tree/master/2235-add-two-integers) |
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/narayani523/Leetcode_Questions/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/narayani523/Leetcode_Questions/tree/master/1929-concatenation-of-array) |
 ## Matrix
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/narayani523/Leetcode_Questions/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/narayani523/Leetcode_Questions/tree/master/0412-fizz-buzz) |
 ## Sorting
 |  |
 | ------- |
