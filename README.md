@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/narayani523/Leetcode_Questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/narayani523/Leetcode_Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1672-richest-customer-wealth](https://github.com/narayani523/Leetcode_Questions/tree/master/1672-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/narayani523/Leetcode_Questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/narayani523/Leetcode_Questions/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/narayani523/Leetcode_Questions/tree/master/0412-fizz-buzz) |
+| [1920-build-array-from-permutation](https://github.com/narayani523/Leetcode_Questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/narayani523/Leetcode_Questions/tree/master/1929-concatenation-of-array) |
 ## Matrix
 |  |
