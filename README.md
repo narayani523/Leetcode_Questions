@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/narayani523/Leetcode_Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/narayani523/Leetcode_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/narayani523/Leetcode_Questions/tree/master/0162-find-peak-element) |
+| [0217-contains-duplicate](https://github.com/narayani523/Leetcode_Questions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/narayani523/Leetcode_Questions/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/narayani523/Leetcode_Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/narayani523/Leetcode_Questions/tree/master/0724-find-pivot-index) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/narayani523/Leetcode_Questions/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/narayani523/Leetcode_Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/narayani523/Leetcode_Questions/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -71,5 +73,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/narayani523/Leetcode_Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/narayani523/Leetcode_Questions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
