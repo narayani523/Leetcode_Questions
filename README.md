@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/narayani523/Leetcode_Questions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/narayani523/Leetcode_Questions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/narayani523/Leetcode_Questions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/narayani523/Leetcode_Questions/tree/master/0412-fizz-buzz) |
@@ -57,10 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/narayani523/Leetcode_Questions/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/narayani523/Leetcode_Questions/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/narayani523/Leetcode_Questions/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/narayani523/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/narayani523/Leetcode_Questions/tree/master/0412-fizz-buzz) |
 ## Sorting
