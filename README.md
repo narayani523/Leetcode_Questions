@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/narayani523/Leetcode_Questions/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/narayani523/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/narayani523/Leetcode_Questions/tree/master/0412-fizz-buzz) |
+| [1021-remove-outermost-parentheses](https://github.com/narayani523/Leetcode_Questions/tree/master/1021-remove-outermost-parentheses) |
 ## Sorting
 |  |
 | ------- |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/narayani523/Leetcode_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/narayani523/Leetcode_Questions/tree/master/0240-search-a-2d-matrix-ii) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/narayani523/Leetcode_Questions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
