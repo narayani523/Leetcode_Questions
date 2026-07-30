@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/narayani523/Leetcode_Questions/tree/master/0013-roman-to-integer) |
+| [0205-isomorphic-strings](https://github.com/narayani523/Leetcode_Questions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/narayani523/Leetcode_Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/narayani523/Leetcode_Questions/tree/master/0242-valid-anagram) |
 ## String
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/narayani523/Leetcode_Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/narayani523/Leetcode_Questions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/narayani523/Leetcode_Questions/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/narayani523/Leetcode_Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/narayani523/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/narayani523/Leetcode_Questions/tree/master/0412-fizz-buzz) |
 | [1021-remove-outermost-parentheses](https://github.com/narayani523/Leetcode_Questions/tree/master/1021-remove-outermost-parentheses) |
