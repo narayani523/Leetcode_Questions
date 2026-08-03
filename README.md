@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/narayani523/Leetcode_Questions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/narayani523/Leetcode_Questions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/narayani523/Leetcode_Questions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/narayani523/Leetcode_Questions/tree/master/0069-sqrtx) |
@@ -141,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/narayani523/Leetcode_Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/narayani523/Leetcode_Questions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/narayani523/Leetcode_Questions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
