@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/narayani523/Leetcode_Questions/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/narayani523/Leetcode_Questions/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/narayani523/Leetcode_Questions/tree/master/2235-add-two-integers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/narayani523/Leetcode_Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Simulation
 |  |
 | ------- |
@@ -175,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/narayani523/Leetcode_Questions/tree/master/0877-stone-game) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/narayani523/Leetcode_Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
