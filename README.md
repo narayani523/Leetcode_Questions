@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/narayani523/Leetcode_Questions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/narayani523/Leetcode_Questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/narayani523/Leetcode_Questions/tree/master/1929-concatenation-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/narayani523/Leetcode_Questions/tree/master/1991-find-the-middle-index-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/narayani523/Leetcode_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/narayani523/Leetcode_Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/narayani523/Leetcode_Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1991-find-the-middle-index-in-array](https://github.com/narayani523/Leetcode_Questions/tree/master/1991-find-the-middle-index-in-array) |
 ## Math
 |  |
 | ------- |
