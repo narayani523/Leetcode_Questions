@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/narayani523/Leetcode_Questions/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/narayani523/Leetcode_Questions/tree/master/1991-find-the-middle-index-in-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/narayani523/Leetcode_Questions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/narayani523/Leetcode_Questions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/narayani523/Leetcode_Questions/tree/master/2235-add-two-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/narayani523/Leetcode_Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/narayani523/Leetcode_Questions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/narayani523/Leetcode_Questions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Simulation
 |  |
 | ------- |
