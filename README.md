@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/narayani523/Leetcode_Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/narayani523/Leetcode_Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/narayani523/Leetcode_Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/narayani523/Leetcode_Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/narayani523/Leetcode_Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/narayani523/Leetcode_Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/narayani523/Leetcode_Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/narayani523/Leetcode_Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/narayani523/Leetcode_Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/narayani523/Leetcode_Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/narayani523/Leetcode_Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/narayani523/Leetcode_Questions/tree/master/1903-largest-odd-number-in-string) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/narayani523/Leetcode_Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/narayani523/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/narayani523/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/narayani523/Leetcode_Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1552-magnetic-force-between-two-balls](https://github.com/narayani523/Leetcode_Questions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Dynamic Programming
 |  |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/narayani523/Leetcode_Questions/tree/master/0410-split-array-largest-sum) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/narayani523/Leetcode_Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/narayani523/Leetcode_Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/narayani523/Leetcode_Questions/tree/master/1903-largest-odd-number-in-string) |
 ## Divide and Conquer
 |  |
