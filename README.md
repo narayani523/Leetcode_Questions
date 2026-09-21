@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/narayani523/Leetcode_Questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/narayani523/Leetcode_Questions/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/narayani523/Leetcode_Questions/tree/master/1991-find-the-middle-index-in-array) |
+| [3524-find-x-value-of-array-i](https://github.com/narayani523/Leetcode_Questions/tree/master/3524-find-x-value-of-array-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/narayani523/Leetcode_Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/narayani523/Leetcode_Questions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/narayani523/Leetcode_Questions/tree/master/3903-smallest-stable-index-i) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/narayani523/Leetcode_Questions/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/narayani523/Leetcode_Questions/tree/master/2235-add-two-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/narayani523/Leetcode_Questions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3524-find-x-value-of-array-i](https://github.com/narayani523/Leetcode_Questions/tree/master/3524-find-x-value-of-array-i) |
 | [3870-count-commas-in-range](https://github.com/narayani523/Leetcode_Questions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/narayani523/Leetcode_Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/narayani523/Leetcode_Questions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/narayani523/Leetcode_Questions/tree/master/0877-stone-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/narayani523/Leetcode_Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/narayani523/Leetcode_Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3524-find-x-value-of-array-i](https://github.com/narayani523/Leetcode_Questions/tree/master/3524-find-x-value-of-array-i) |
 ## Greedy
 |  |
 | ------- |
