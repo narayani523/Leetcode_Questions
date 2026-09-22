@@ -28,14 +28,15 @@ class Solution {
             reverse(temp);
             if(temp==head){
                 head=knode;
-                prevnode=temp;
-                temp=nextnode;
+                
             }
             else{
                 prevnode.next=knode;
-                prevnode=temp;//presering last node of prev ll
-                temp=nextnode;
+                // prevnode=temp;//presering last node of prev ll
+                // temp=nextnode;
             }
+            prevnode=temp;
+                temp=nextnode;
             
         }
         return head;
