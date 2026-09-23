@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/narayani523/Leetcode_Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/narayani523/Leetcode_Questions/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/narayani523/Leetcode_Questions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/narayani523/Leetcode_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/narayani523/Leetcode_Questions/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/narayani523/Leetcode_Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/narayani523/Leetcode_Questions/tree/master/1920-build-array-from-permutation) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/narayani523/Leetcode_Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/narayani523/Leetcode_Questions/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/narayani523/Leetcode_Questions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/narayani523/Leetcode_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/narayani523/Leetcode_Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/narayani523/Leetcode_Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/narayani523/Leetcode_Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/narayani523/Leetcode_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1991-find-the-middle-index-in-array](https://github.com/narayani523/Leetcode_Questions/tree/master/1991-find-the-middle-index-in-array) |
 | [3903-smallest-stable-index-i](https://github.com/narayani523/Leetcode_Questions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/narayani523/Leetcode_Questions/tree/master/3904-smallest-stable-index-ii) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/narayani523/Leetcode_Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/narayani523/Leetcode_Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/narayani523/Leetcode_Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/narayani523/Leetcode_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/narayani523/Leetcode_Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
@@ -257,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/narayani523/Leetcode_Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/narayani523/Leetcode_Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/narayani523/Leetcode_Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/narayani523/Leetcode_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Minimax
 |  |
 | ------- |
