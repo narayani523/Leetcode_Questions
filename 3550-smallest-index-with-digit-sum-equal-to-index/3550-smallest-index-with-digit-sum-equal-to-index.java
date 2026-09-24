@@ -1,13 +1,7 @@
 class Solution {
     public int smallestIndex(int[] nums) {
         for(int i=0;i<nums.length;i++){
-            if(nums[i]<10){
-                if(i==nums[i]){
-                    return i;
-                }
-            }
-            else{
-                int sum=0;
+            int sum=0;
                 while(nums[i]!=0){
                     sum=sum+nums[i]%10;
                     nums[i]=nums[i]/10;
@@ -15,7 +9,7 @@ class Solution {
                 if(sum==i){
                     return i;
                 }
-            }
+            
         }
         return -1;
     }
