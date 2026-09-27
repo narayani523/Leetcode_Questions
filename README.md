@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/narayani523/Leetcode_Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/narayani523/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/narayani523/Leetcode_Questions/tree/master/0724-find-pivot-index) |
+| [0860-lemonade-change](https://github.com/narayani523/Leetcode_Questions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/narayani523/Leetcode_Questions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/narayani523/Leetcode_Questions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/narayani523/Leetcode_Questions/tree/master/0904-fruit-into-baskets) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/narayani523/Leetcode_Questions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/narayani523/Leetcode_Questions/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/narayani523/Leetcode_Questions/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/narayani523/Leetcode_Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/narayani523/Leetcode_Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/narayani523/Leetcode_Questions/tree/master/1903-largest-odd-number-in-string) |
