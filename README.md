@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/narayani523/Leetcode_Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/narayani523/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/narayani523/Leetcode_Questions/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/narayani523/Leetcode_Questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/narayani523/Leetcode_Questions/tree/master/0455-assign-cookies) |
 | [0525-contiguous-array](https://github.com/narayani523/Leetcode_Questions/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/narayani523/Leetcode_Questions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/narayani523/Leetcode_Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/narayani523/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/narayani523/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/narayani523/Leetcode_Questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/narayani523/Leetcode_Questions/tree/master/0455-assign-cookies) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/narayani523/Leetcode_Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1552-magnetic-force-between-two-balls](https://github.com/narayani523/Leetcode_Questions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/narayani523/Leetcode_Questions/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/narayani523/Leetcode_Questions/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/narayani523/Leetcode_Questions/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/narayani523/Leetcode_Questions/tree/master/0877-stone-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/narayani523/Leetcode_Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/narayani523/Leetcode_Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/narayani523/Leetcode_Questions/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/narayani523/Leetcode_Questions/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/narayani523/Leetcode_Questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/narayani523/Leetcode_Questions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/narayani523/Leetcode_Questions/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/narayani523/Leetcode_Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
