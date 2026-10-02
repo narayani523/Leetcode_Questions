@@ -14,16 +14,8 @@ class Solution {
                 }
 
                 char top = st.pop();
-
-                if (ch == ')' && top != '(') {
-                    return false;
-                }
-                if (ch == ']' && top != '[') {
-                    return false;
-                }
-                if (ch == '}' && top != '{') {
-                    return false;
-                }
+                if((top=='(' && ch==')')||(top=='['&&ch==']') || (top=='{' && ch=='}')) continue;
+                else return false;
             }
         }
 
