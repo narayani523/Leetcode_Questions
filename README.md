@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/narayani523/Leetcode_Questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/narayani523/Leetcode_Questions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/narayani523/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/narayani523/Leetcode_Questions/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/narayani523/Leetcode_Questions/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/narayani523/Leetcode_Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/narayani523/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/narayani523/Leetcode_Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/narayani523/Leetcode_Questions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/narayani523/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/narayani523/Leetcode_Questions/tree/master/0503-next-greater-element-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/narayani523/Leetcode_Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/narayani523/Leetcode_Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/narayani523/Leetcode_Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -363,4 +365,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/narayani523/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/narayani523/Leetcode_Questions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
