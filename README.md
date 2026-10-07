@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/narayani523/Leetcode_Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/narayani523/Leetcode_Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/narayani523/Leetcode_Questions/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/narayani523/Leetcode_Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0412-fizz-buzz](https://github.com/narayani523/Leetcode_Questions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/narayani523/Leetcode_Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/narayani523/Leetcode_Questions/tree/master/0796-rotate-string) |
@@ -372,4 +373,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/narayani523/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/narayani523/Leetcode_Questions/tree/master/0503-next-greater-element-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/narayani523/Leetcode_Questions/tree/master/0301-remove-invalid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/narayani523/Leetcode_Questions/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
