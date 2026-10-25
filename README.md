@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/narayani523/Leetcode_Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/narayani523/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/narayani523/Leetcode_Questions/tree/master/0301-remove-invalid-parentheses) |
+| [0402-remove-k-digits](https://github.com/narayani523/Leetcode_Questions/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/narayani523/Leetcode_Questions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/narayani523/Leetcode_Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/narayani523/Leetcode_Questions/tree/master/0796-rotate-string) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/narayani523/Leetcode_Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/narayani523/Leetcode_Questions/tree/master/0055-jump-game) |
+| [0402-remove-k-digits](https://github.com/narayani523/Leetcode_Questions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/narayani523/Leetcode_Questions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/narayani523/Leetcode_Questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/narayani523/Leetcode_Questions/tree/master/0455-assign-cookies) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/narayani523/Leetcode_Questions/tree/master/0032-longest-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/narayani523/Leetcode_Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/narayani523/Leetcode_Questions/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/narayani523/Leetcode_Questions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/narayani523/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/narayani523/Leetcode_Questions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/narayani523/Leetcode_Questions/tree/master/0735-asteroid-collision) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/narayani523/Leetcode_Questions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/narayani523/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/narayani523/Leetcode_Questions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/narayani523/Leetcode_Questions/tree/master/0907-sum-of-subarray-minimums) |
