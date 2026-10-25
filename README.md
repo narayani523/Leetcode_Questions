@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/narayani523/Leetcode_Questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/narayani523/Leetcode_Questions/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/narayani523/Leetcode_Questions/tree/master/1991-find-the-middle-index-in-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/narayani523/Leetcode_Questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/narayani523/Leetcode_Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/narayani523/Leetcode_Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/narayani523/Leetcode_Questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/narayani523/Leetcode_Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/narayani523/Leetcode_Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/narayani523/Leetcode_Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/narayani523/Leetcode_Questions/tree/master/2104-sum-of-subarray-ranges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/narayani523/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/narayani523/Leetcode_Questions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/narayani523/Leetcode_Questions/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/narayani523/Leetcode_Questions/tree/master/2104-sum-of-subarray-ranges) |
 ## Backtracking
 |  |
 | ------- |
