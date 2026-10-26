@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/narayani523/Leetcode_Questions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/narayani523/Leetcode_Questions/tree/master/0032-longest-valid-parentheses) |
+| [0155-min-stack](https://github.com/narayani523/Leetcode_Questions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/narayani523/Leetcode_Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/narayani523/Leetcode_Questions/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/narayani523/Leetcode_Questions/tree/master/0402-remove-k-digits) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/narayani523/Leetcode_Questions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/narayani523/Leetcode_Questions/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
