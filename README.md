@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/narayani523/Leetcode_Questions/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/narayani523/Leetcode_Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/narayani523/Leetcode_Questions/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/narayani523/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/narayani523/Leetcode_Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/narayani523/Leetcode_Questions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/narayani523/Leetcode_Questions/tree/master/0056-merge-intervals) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/narayani523/Leetcode_Questions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/narayani523/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/narayani523/Leetcode_Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/narayani523/Leetcode_Questions/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/narayani523/Leetcode_Questions/tree/master/0410-split-array-largest-sum) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/narayani523/Leetcode_Questions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/narayani523/Leetcode_Questions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/narayani523/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/narayani523/Leetcode_Questions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/narayani523/Leetcode_Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/narayani523/Leetcode_Questions/tree/master/0234-palindrome-linked-list) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/narayani523/Leetcode_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/narayani523/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/narayani523/Leetcode_Questions/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/narayani523/Leetcode_Questions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/narayani523/Leetcode_Questions/tree/master/0151-reverse-words-in-a-string) |
@@ -406,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/narayani523/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/narayani523/Leetcode_Questions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/narayani523/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/narayani523/Leetcode_Questions/tree/master/0503-next-greater-element-ii) |
