@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/narayani523/Leetcode_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/narayani523/Leetcode_Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/narayani523/Leetcode_Questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/narayani523/Leetcode_Questions/tree/master/0085-maximal-rectangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/narayani523/Leetcode_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/narayani523/Leetcode_Questions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/narayani523/Leetcode_Questions/tree/master/0209-minimum-size-subarray-sum) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/narayani523/Leetcode_Questions/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/narayani523/Leetcode_Questions/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/narayani523/Leetcode_Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1672-richest-customer-wealth](https://github.com/narayani523/Leetcode_Questions/tree/master/1672-richest-customer-wealth) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/narayani523/Leetcode_Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/narayani523/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/narayani523/Leetcode_Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/narayani523/Leetcode_Questions/tree/master/0055-jump-game) |
+| [0085-maximal-rectangle](https://github.com/narayani523/Leetcode_Questions/tree/master/0085-maximal-rectangle) |
 | [0410-split-array-largest-sum](https://github.com/narayani523/Leetcode_Questions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/narayani523/Leetcode_Questions/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/narayani523/Leetcode_Questions/tree/master/0877-stone-game) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/narayani523/Leetcode_Questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/narayani523/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/narayani523/Leetcode_Questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/narayani523/Leetcode_Questions/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/narayani523/Leetcode_Questions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/narayani523/Leetcode_Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/narayani523/Leetcode_Questions/tree/master/0234-palindrome-linked-list) |
@@ -414,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/narayani523/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/narayani523/Leetcode_Questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/narayani523/Leetcode_Questions/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/narayani523/Leetcode_Questions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/narayani523/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/narayani523/Leetcode_Questions/tree/master/0503-next-greater-element-ii) |
