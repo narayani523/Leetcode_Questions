@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/narayani523/Leetcode_Questions/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/narayani523/Leetcode_Questions/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/narayani523/Leetcode_Questions/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/narayani523/Leetcode_Questions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/narayani523/Leetcode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/narayani523/Leetcode_Questions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/narayani523/Leetcode_Questions/tree/master/0217-contains-duplicate) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/narayani523/Leetcode_Questions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/narayani523/Leetcode_Questions/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/narayani523/Leetcode_Questions/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/narayani523/Leetcode_Questions/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/narayani523/Leetcode_Questions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/narayani523/Leetcode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/narayani523/Leetcode_Questions/tree/master/0234-palindrome-linked-list) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/narayani523/Leetcode_Questions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/narayani523/Leetcode_Questions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/narayani523/Leetcode_Questions/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
@@ -482,4 +485,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/narayani523/Leetcode_Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/narayani523/Leetcode_Questions/tree/master/0239-sliding-window-maximum) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/narayani523/Leetcode_Questions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
