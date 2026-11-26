@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/narayani523/Leetcode_Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/narayani523/Leetcode_Questions/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/narayani523/Leetcode_Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/narayani523/Leetcode_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/narayani523/Leetcode_Questions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/narayani523/Leetcode_Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/narayani523/Leetcode_Questions/tree/master/0234-palindrome-linked-list) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/narayani523/Leetcode_Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/narayani523/Leetcode_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/narayani523/Leetcode_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Union-Find
 |  |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/narayani523/Leetcode_Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/narayani523/Leetcode_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/narayani523/Leetcode_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
@@ -498,4 +501,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/narayani523/Leetcode_Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/narayani523/Leetcode_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
